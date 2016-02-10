@@ -12,4 +12,4 @@ Lab5 was a lab examining error of the Minwise Hashing algorithm on n-gram single
 
 All of these use the PreProcessing.java, FeatureVector.java, and DocumentObject.java. The Lab2 uses KNNCL1.java and BayesianCL2.java. Lab3 uses KMeans.java and KBSCAN.java.
 
-NOTE: makefile only makes the necessary files, so the command "javac -g [filesToMake]" is necessary 
+NOTE: makefile only makes the necessary files, so the command "javac -g [filesToMake]" is necessary to compile other files.
