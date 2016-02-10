@@ -11,3 +11,5 @@ Lab3 is K-means and DBSCAN clustering algorithms. The goal was similar to the ab
 Lab5 was a lab examining error of the Minwise Hashing algorithm on n-gram singles. It calculates the minwise hashing similarity estimate for each shingle, the exact similarity, and then compares the 2.
 
 All of these use the PreProcessing.java, FeatureVector.java, and DocumentObject.java. The Lab2 uses KNNCL1.java and BayesianCL2.java. Lab3 uses KMeans.java and KBSCAN.java.
+
+NOTE: makefile only makes the necessary files, so the command "javac -g [filesToMake]" is necessary 
